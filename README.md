@@ -15,7 +15,7 @@ is worth 1, and so on. We have defined the dictionary `SCRABBLE_LETTER_VALUES`
 that maps each lowercase letter to its Scrabble letter value.
 
 For example, `'weed'` would be worth 8 points (4+1+1+2=8), as long as the hand actually
-has 1 'w', 2 'e's, and 1 'd'.
+has 1 `'w'`, 2 `'e'`s, and 1 `'d'`.
 As another example, if n=7 and you get `'waybill'` on the first go, it would be worth 65
-points (4+1+4+3+1+1+1=15, +50 for the 'bingo' bonus of using all seven letters).
+points (4+1+4+3+1+1+1=15, +50 for the `'bingo'` bonus of using all seven letters).
 
